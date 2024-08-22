@@ -11,4 +11,11 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 # Welcome to the Blue Bark Network 🐾
-the goal of this org is to have a collection of projects made by furries to make it easy to find new furry projects and get exposure to small creators. if you have a project you want featured, feel free to create a discussion
+the goal of this org is to have a collective of furry programmers indicated by an org badge or their profile. I want to make it easy to find furry programmers by simply exploring this org.
+
+It is simple to join the Blue Bark Network, simply open a discussion in the badge request section and you will be added to the network(manually). 
+Also post as many projects as you want in the show and tell. You don't have to make commits and repos in the network, but you can if you REALLY want to. It is better to stick to keeping those on a personal page.
+
+Discord Server COMING SOON™️, it will be a hub for all things blue bark, as this is far from the only phase of the project.
+
+That is all, thanks for stopping by :3
